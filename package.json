@@ -1,7 +1,6 @@
 {
   "name": "lernarepo",
   "version": "0.2.3",
-  "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/arastu/lerna-test/issues"
   },
-  "homepage": "https://github.com/arastu/lerna-test#readme"
+  "homepage": "https://github.com/arastu/lerna-test#readme",
+  "main": "index.js",
+  "description": ""
 }

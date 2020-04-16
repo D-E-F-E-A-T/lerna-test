@@ -1,1 +1,1 @@
-module.exports = "core";
+export default "core";

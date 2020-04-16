@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "cfd34580b8ab521285f5037d10d4f2c041fa40e3"
+  "gitHead": "78d2a1347aded89bdf5a158b94190e78b892da1f",
+  "type": "module",
+  "dependencies": {
+    "@lernarepo/core": "^0.2.3"
+  }
 }
