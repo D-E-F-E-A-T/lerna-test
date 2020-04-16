@@ -1,6 +1,6 @@
 {
   "name": "@lernarepo/ui",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "gitHead": "78d2a1347aded89bdf5a158b94190e78b892da1f",
   "type": "module",
   "dependencies": {
-    "@lernarepo/core": "^0.2.3"
+    "@lernarepo/core": "^0.2.4"
   }
 }
