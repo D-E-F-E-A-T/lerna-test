@@ -1,5 +1,5 @@
 {
-  "name": "core",
+  "name": "@lernarepo/core",
   "version": "0.2.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "cfd34580b8ab521285f5037d10d4f2c041fa40e3"
 }
